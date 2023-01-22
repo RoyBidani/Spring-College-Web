@@ -1,0 +1,4 @@
+
+æ
+java:S1598"ÏThis file "UserService.java" should be located in "com/example/springcollege/CollegeAppSpring/service" directory, not in "/Users/bida/Desktop/SpringCollege Project/SpringCollegeApp/CollegeAppSpring/service".(Ù¡±“
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¡±“

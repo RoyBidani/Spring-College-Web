@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCollegeApp/CollegeAppSpring.iml" filepath="$PROJECT_DIR$/SpringCollegeApp/CollegeAppSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestConsumerApp/RestConsumer.iml" filepath="$PROJECT_DIR$/RestConsumerApp/RestConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCollege Project.iml" filepath="$PROJECT_DIR$/.idea/SpringCollege Project.iml" />
+    </modules>
+  </component>
+</project>

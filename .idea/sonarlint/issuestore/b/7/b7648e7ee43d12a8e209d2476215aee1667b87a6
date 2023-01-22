@@ -1,0 +1,8 @@
+
+b
+java:S1192"MDefine a constant instead of duplicating this literal "loggedInUser" 3 times.(ÁµŒI
+í
+java:S1598"ÖThis file "UserProfileService.java" should be located in "com/example/springcollege/CollegeAppSpring/service" directory, not in "/Users/bida/Desktop/SpringCollege Project/SpringCollegeApp/CollegeAppSpring/service".(Ù¡±“
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¡±“
+?
+java:S19401")Use the opposite operator ("<=") instead.(­ž¦á

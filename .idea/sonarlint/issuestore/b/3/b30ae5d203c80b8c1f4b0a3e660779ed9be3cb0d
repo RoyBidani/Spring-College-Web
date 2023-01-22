@@ -1,0 +1,8 @@
+
+Ù
+java:S1598"›This file "SpringCollegeSecurityConfig.java" should be located in "com/example/springcollege/CollegeAppSpring/config" directory, not in "/Users/bida/Desktop/SpringCollege Project/SpringCollegeApp/CollegeAppSpring/config".(∫‘ﬂÉ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(∫‘ﬂÉ
+e
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(ñùƒÄ
+l
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.( Å¡•

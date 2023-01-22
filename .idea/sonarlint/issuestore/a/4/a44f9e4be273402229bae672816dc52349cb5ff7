@@ -1,0 +1,4 @@
+
+ô
+java:S1598"ÝThis file "ContactController.java" should be located in "com/example/springcollege/CollegeAppSpring/controllers" directory, not in "/Users/bida/Desktop/SpringCollege Project/SpringCollegeApp/CollegeAppSpring/controllers".(òØ†‰
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òØ†‰
